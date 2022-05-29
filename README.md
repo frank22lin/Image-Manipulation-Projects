@@ -5,7 +5,7 @@ recognizing [Handwritten Digits](Image_Recognition) from the MNIST Dataset using
 using Hermite and Natural Splines and [seamlessly cloning](Seamless_Cloning) an image into another image using Gradient approximation and linear sets of 
 equations.
 
-#Developed by:
+## Developed by:
 
 - Franklin Liu
 - Aleksandra Soloveva
